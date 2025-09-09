@@ -1,0 +1,26 @@
+{
+  "name": "oop_ts",
+  "version": "1.0.0",
+  "description": "tudod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc && node ./dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Partisan1/OOP_Ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Partisan1/OOP_Ts/issues"
+  },
+  "homepage": "https://github.com/Partisan1/OOP_Ts#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "@types/typescript": "^0.4.29",
+    "typescript": "^5.9.2"
+  }
+}
